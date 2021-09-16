@@ -1,0 +1,2 @@
+Wrist mounted/Gauntlet with a Screen, wheel, button, blutooth. Allows me to log life events by selecting them with the wheel a pressing the confirmation button. Events get logged via webhook/python.
+
